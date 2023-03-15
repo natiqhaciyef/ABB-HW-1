@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedCornerImage">
+        <item name="cornerSizeTopRight">10%</item>
+        <item name="cornerSizeTopLeft">0%</item>
+        <item name="cornerSizeBottomLeft">10%</item>
+        <item name="cornerSizeBottomRight">0%</item>
+    </style>
+
+    <style name="EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:editTextColor">@color/brown</item>
+    </style>
+
+    <style name="CardTopCornerRadius">
+        <item name="cornerSizeTopRight">3%</item>
+        <item name="cornerSizeTopLeft">3%</item>
+        <item name="cornerSizeBottomLeft">0%</item>
+        <item name="cornerSizeBottomRight">0%</item>
+    </style>
+
+</resources>
